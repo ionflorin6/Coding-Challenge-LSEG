@@ -1,0 +1,3 @@
+Stock-ID,Timestamp,actual stock price at that timestamp,mean of 30 data points,actual stock price – mean,% deviation over and above the threshold
+FLTR,28-10-2023,17083.72,17833.381666666668,17230.753396226424,7.496616666666669
+FLTR,29-10-2023,17152.05,17833.381666666668,17230.753396226424,6.813316666666688
