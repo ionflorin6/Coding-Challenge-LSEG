@@ -14,7 +14,7 @@ Clone the git project into your desired path.
 
 ```
 # for the SSH option, use:
-git@github.com:ionflorin6/Coding-Challenge-LSEG.git
+git clone git@github.com:ionflorin6/Coding-Challenge-LSEG.git
 ```
 
 Open your terminal or command prompt into the project's folder and install the packages needed to run the code.
