@@ -49,7 +49,7 @@ options:
 
 ```
 # for example:
-python .\main.py -fn 2 -i "./stock_price_data_files" -o "."
+python ./main.py -fn 2 -i "./stock_price_data_files" -o "."
 ```
 
 After the script execution, the output csv files can be found in the output directory. They can be identified by the beginning characters "out_".\
