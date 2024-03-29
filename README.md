@@ -12,7 +12,8 @@ In order to run the code from this project, you will need pip and python install
 
 Clone the git project into your desired path.
 
-```# for the SSH option, use:
+```
+# for the SSH option, use:
 git@github.com:ionflorin6/Coding-Challenge-LSEG.git
 ```
 
