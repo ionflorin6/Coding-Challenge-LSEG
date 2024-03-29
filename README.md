@@ -44,7 +44,7 @@ options:
                         \
   -o OUTPUTDIRECTORY, --output-directory OUTPUTDIRECTORY\
                         Output directory for csv files\
-                        Default value = "./output"\
+                        Default value = "./output"
 
 
 ```
