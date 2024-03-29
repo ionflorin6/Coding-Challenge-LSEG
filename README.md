@@ -32,12 +32,15 @@ usage: python .\main.py [-h] [-fn FILESNUMBER] [-i INPUTDIRECTORY] [-o OUTPUTDIR
 
 options:
   -h, --help            show this help message and exit\
+  \
   -fn FILESNUMBER, --files-number FILESNUMBER\
                         Number of files to be sampled for each Stock Exchange\
                         Default value = 1\
+                        \
   -i INPUTDIRECTORY, --input-directory INPUTDIRECTORY\
                         Root directory for stock exchanges\
                         Default value = "./stock_price_data_files"\
+                        \
   -o OUTPUTDIRECTORY, --output-directory OUTPUTDIRECTORY\
                         Output directory for csv files\
                         Default value = "./output"\
